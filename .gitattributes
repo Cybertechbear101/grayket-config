@@ -1,0 +1,13 @@
+# This file is used to override language statistics
+public/*.html linguist-vendored
+
+dist/* linguist-vendored
+
+*.md linguist-documentation
+*.map linguist-generated
+
+*.tsx linguist-detectable
+*.png binary
+*.bat text eol=crlf
+
+public/index.html linguist-vendored
