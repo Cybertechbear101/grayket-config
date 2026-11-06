@@ -1,0 +1,9 @@
+.cache/
+npm-debug.log*
+dist/
+yarn-error.log*
+coverage/
+*.tgz
+.env.local
+build/
+.pnpm-store/
